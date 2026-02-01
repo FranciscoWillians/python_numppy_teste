@@ -1,0 +1,1 @@
+primeiro commit, neste repositório estou aprendendo sobre numpy
